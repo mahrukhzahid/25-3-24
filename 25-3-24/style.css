@@ -1,0 +1,16 @@
+Body{
+    background-color: rgb(206, 186, 186)
+}
+h1{
+    font-size: 50px;
+  color: forestgreen;
+}
+.navbar-laptop{
+    color: blue;
+}
+.navbar-mobile{
+    color: yellow;
+}
+.navbar-tablet{
+    color: brown;
+}
